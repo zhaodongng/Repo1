@@ -1,2 +1,2 @@
-The default branch has been updated from main to master.\n 
+The default branch has been updated from main to master.  
 successful!!!!!
