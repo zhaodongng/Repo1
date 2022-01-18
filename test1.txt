@@ -1,1 +1,4 @@
 CHANGE 1
+
+I am doing some changes to test1.txt using macvim
+Testing...
