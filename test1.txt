@@ -8,3 +8,5 @@ Testing again...
 
 Try using Github Desktop and Vim at the same time
 should be ok
+
+Trying adding comments with decriptions using terminal git commands
